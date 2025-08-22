@@ -1,6 +1,6 @@
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Welcome+to+my+digital+playground!;Full+Stack+Engineer+%7C+Problem+Solver;Always+learning+new+technologies;Let's+build+something+amazing+together!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=32&duration=2800&pause=50000&color=e0e0e0&width=940&lines=whois+jeremycastanza" alt="Typing SVG" />
 
-## 🚀 About Me
+## > _
 
 ```javascript
 const developer = {
@@ -13,25 +13,25 @@ const developer = {
     funFact: "I debug with console.log() and I'm not ashamed! 😄"
 };
 ```
-
-## 🛠️ Tech Stack
-
-<div align="left" width="48%">
+## Technologies
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-</div>
-
-<div align="right" width="48%">
-
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)|
-</div>
+
+### Database & Cloud
+![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
 
 ## 📊 GitHub Analytics
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeremycastanza&theme=tokyonight" alt="GitHub Streak Stats"/>
