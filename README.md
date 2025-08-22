@@ -1,5 +1,5 @@
-<div align="left">
-    <span> > _ </span><img align="middle" src="https://readme-typing-svg.herokuapp.com/?font=system-ui&size=24&duration=7000&pause=50000&color=e0e0e0&width=940&lines=whois+jeremycastanza" alt="Typing SVG" />
+<div align="right">
+    <span> > _ </span><img src="https://readme-typing-svg.herokuapp.com/?font=system-ui&size=24&duration=7000&pause=50000&color=e0e0e0&width=940&lines=whois+jeremycastanza" alt="Typing SVG" />
 </div>
 
 <hr />
@@ -27,7 +27,7 @@ const developer: SoftwareEngineer = {
 
 ## Technologies
 
-<details>
+<details open>
 <summary>
     
 ### Languages
