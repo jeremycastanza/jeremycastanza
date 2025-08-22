@@ -1,13 +1,15 @@
 <div align="left">
-<div align="middle"> 
-    <span align="left">> _</span> 
+<div width="18%" align="left">
+    <span> > _</span>
+    <hr />
 </div>
-<img src="https://readme-typing-svg.herokuapp.com/?font=system-ui&size=24&duration=7000&pause=50000&color=e0e0e0&width=940&lines=whois+jeremycastanza" alt="Typing SVG" align="right" />
+<div width="78%" align="right">
+<img src="https://readme-typing-svg.herokuapp.com/?font=system-ui&size=24&duration=7000&pause=50000&color=e0e0e0&width=940&lines=whois+jeremycastanza" alt="Typing SVG" />
+</div>
 </div>
 
-<hr />
-</div>
-
+<div width="100%">
+    
 ```typescript
 interface SoftwareEngineer extends Person {
     name: string,
@@ -26,6 +28,8 @@ const developer: SoftwareEngineer = {
     randomFact: "I once covered my boss's entire office in Post-It notes. 🗒️"
 };
 ```
+</div>
+
 ## Technologies
 
 <details>
