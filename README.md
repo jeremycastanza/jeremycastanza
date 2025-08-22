@@ -77,11 +77,10 @@ const developer: SoftwareEngineer = {
 
 ## Projects
 
-| Project | Description | Tech Stack | Demo |
-|---------|-------------|------------|------|
-| **🚀 Project Alpha** | A full-stack web application that revolutionizes task management | React, Node.js, PostgreSQL | [Live Demo](https://your-demo-link.com) |
-| **🤖 AI Assistant** | Machine learning chatbot with natural language processing | Python, TensorFlow, FastAPI | [Try it out](https://your-demo-link.com) |
-| **📱 Mobile App** | Cross-platform mobile app for fitness tracking | React Native, Firebase | [Download](https://your-app-store-link.com) |
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **🚀 Project Amos** | Start-up aimed at providing analytics and gamification for targeted audiences | React Router and Neon |
+| **🤖 Zen Browser**  | Seeking contributions to new open-source web browser | Typescript, C++ |
 
 ## Current Goals
 
@@ -90,7 +89,6 @@ const developer: SoftwareEngineer = {
 - 👯 I'm looking to collaborate on **open source projects**
 - 🤔 I'm looking for help with **scaling microservices architecture**
 - 💬 Ask me about **JavaScript, React, Node.js, or anything tech-related**
-- ⚡ Fun fact: **I once solved a bug in my sleep and woke up to implement the solution!**
 
 ## Let's Connect!
 
