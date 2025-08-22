@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Jeremy
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Welcome+to+my+digital+playground!;Full+Stack+Developer+%7C+Problem+Solver;Always+learning+new+technologies;Let's+build+something+amazing+together!" alt="Typing SVG" />
@@ -8,11 +8,11 @@
 
 ```javascript
 const developer = {
-    name: "Your Name",
-    location: "Your City, Country",
-    role: "Full Stack Developer",
-    languages: ["JavaScript", "Python", "TypeScript", "Java"],
-    currentlyLearning: ["Web3", "Machine Learning", "Cloud Architecture"],
+    name: "Jeremy Castanza",
+    location: "South Carolina, USA",
+    role: "Senior-Level, Full Stack Engineer",
+    languages: ["JavaScript", "Python", "TypeScript", "PHP"],
+    currentlyLearning: ["AI", "Claude", "Multi-Tenant Architecture"],
     hobbies: ["🎮 Gaming", "📚 Reading", "🏃‍♂️ Running", "🎵 Music"],
     funFact: "I debug with console.log() and I'm not ashamed! 😄"
 };
@@ -20,13 +20,11 @@ const developer = {
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=php&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -45,8 +43,6 @@ const developer = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
 
 ## 📊 GitHub Analytics
 
@@ -79,7 +75,7 @@ const developer = {
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=yourusername&theme=tokyo-night&bg_color=1a1b27&color=a855f7&line=a855f7&point=f8fafc&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=jeremycastanza&theme=tokyo-night&bg_color=1a1b27&color=a855f7&line=a855f7&point=f8fafc&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ## 🎯 Current Goals
@@ -92,32 +88,19 @@ const developer = {
 - ⚡ Fun fact: **I once solved a bug in my sleep and woke up to implement the solution!**
 
 ## 🌐 Let's Connect!
-
-<div align="center">
-  
+ 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 
-</div>
-
-## 💝 Support My Work
-
-<div align="center">
-  
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yourusername)
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/yourusername)
-
-</div>
-
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue" alt="Profile Views"/>
   
   **"Code is like humor. When you have to explain it, it's bad." – Cory House**
   
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-  
+  <img src="https://komarev.com/ghpvc/?username=jeremycastanza&style=flat-square&color=blue" alt="Profile Views"/>
+
 </div>
