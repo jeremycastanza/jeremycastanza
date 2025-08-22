@@ -1,5 +1,5 @@
 <div align="left">
-<div width="18%" align="left">
+<div width="18%" align="middle">
     <span> > _</span>
     <hr />
 </div>
