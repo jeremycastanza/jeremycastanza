@@ -1,4 +1,4 @@
-<div align="middle">
+<div width="100px" align="middle">
     <span> > _ </span>
     <hr />
 </div>
@@ -91,8 +91,8 @@ const developer: SoftwareEngineer = {
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **🚀 Project Amos** | Start-up aimed at providing analytics and gamification for targeted audiences | React Router and Neon |
-| **🤖 Zen Browser**  | Seeking contributions to new open-source web browser | Typescript, C++ |
+| ** Project Amos** | Start-up aimed at providing analytics and gamification for targeted audiences | React Router and Neon |
+| ** Zen Browser**  | Seeking contributions to new open-source web browser | Typescript, C++ |
 
 ## Current Goals
 
