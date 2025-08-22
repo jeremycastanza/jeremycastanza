@@ -1,6 +1,8 @@
-<div>
+<div align="left">
 <div align="middle"> 
-    <span align="left">> _</span> <img src="https://readme-typing-svg.herokuapp.com/?font=system-ui&size=24&duration=7000&pause=50000&color=e0e0e0&width=940&lines=whois+jeremycastanza" alt="Typing SVG" align="right" />
+    <span align="left">> _</span> 
+</div>
+<img src="https://readme-typing-svg.herokuapp.com/?font=system-ui&size=24&duration=7000&pause=50000&color=e0e0e0&width=940&lines=whois+jeremycastanza" alt="Typing SVG" align="right" />
 </div>
 
 <hr />
