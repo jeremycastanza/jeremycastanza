@@ -1,8 +1,11 @@
-<div align="right">
-    <span> > _ </span><img src="https://readme-typing-svg.herokuapp.com/?font=system-ui&size=24&duration=7000&pause=50000&color=e0e0e0&width=940&lines=whois+jeremycastanza" alt="Typing SVG" />
+<div align="middle">
+    <span> > _ </span>
+    <hr />
 </div>
 
-<hr />
+<img src="https://readme-typing-svg.herokuapp.com/?font=system-ui&size=24&duration=7000&pause=50000&color=e0e0e0&width=940&lines=whois+jeremycastanza" alt="Typing SVG" />
+
+
 <div width="100%">
     
 ```typescript
@@ -39,7 +42,7 @@ const developer: SoftwareEngineer = {
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 </details>
 
-<details>
+<details open>
 <summary>
 <h3>Frontend</h3>
 </summary>
@@ -48,7 +51,8 @@ const developer: SoftwareEngineer = {
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 </details>
-<details>
+
+<details open>
 <summary>
 
 ### Backend
@@ -56,9 +60,10 @@ const developer: SoftwareEngineer = {
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 </details>
 
-<details>
+<details open>
 <summary>
     
 ### Database & Cloud
