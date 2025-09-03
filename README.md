@@ -80,8 +80,7 @@ const developer: SoftwareEngineer = {
 
 ## GitHub Analytics
 <div align="center">
-  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jeremycastanza&theme=tokyonight" alt="GitHub Streak Stats"/>
+
 <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
